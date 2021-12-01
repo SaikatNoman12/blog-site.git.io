@@ -1,0 +1,12 @@
+
+/* ==== root styling ==== */
+
+:root{
+    --popins: 'Poppins', sans-serif;
+    --light:#f8f9fa;
+    --secondary:#adb5bd;
+    --dark:#343a40;
+    --primary-color:#f15bb5;
+    --secondary-color:#2ec4b6;
+    --border:#e9ecef;
+}
